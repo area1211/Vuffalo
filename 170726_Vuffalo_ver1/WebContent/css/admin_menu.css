@@ -1,0 +1,36 @@
+
+h2{
+	color:#3498db;
+}
+hr{
+	border: solid 1px #e0e0e0;
+}
+.admin_menu{
+	width:1000px;
+	height : 150px;
+}
+.admin_title{
+	height:100px;
+}
+.admin_section{
+	height:100px;
+}
+.admin_td_size{
+	width:150px;
+	height:50px;
+	text-align:center;
+}
+.admin_btn{
+	width : 150px;
+	height : 50px;
+	text-align:center;
+}
+.board_manage_div{
+	height : 50px;
+	display:none;
+}
+.admin_menu_main{
+	width:1000px;
+	height: 200px;
+	margin:0 auto;
+}

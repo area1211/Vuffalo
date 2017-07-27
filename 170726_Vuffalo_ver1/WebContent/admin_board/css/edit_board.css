@@ -1,0 +1,29 @@
+h2,h5{
+	color : #3498DB;
+}
+table{
+	margin:auto;
+}
+.managerBound{
+	width : 1000px;
+	height : 500px;
+	margin : auto;
+}
+.inputLine{
+	width : 500px;
+}
+.textCenter{
+	text-align : center;
+}
+.bigConfirmButton{
+	color : white;
+	background-color : #3498DB;
+	width : 100px;
+	height : 40px;
+}
+.bigCancelButton{
+	color : white;
+	background-color : #E0E0E0;
+	width : 100px;
+	height : 40px;
+}

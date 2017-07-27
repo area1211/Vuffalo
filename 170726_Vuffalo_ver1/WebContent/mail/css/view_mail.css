@@ -1,0 +1,39 @@
+h2{
+	color: #3498db;
+}
+
+table{
+	border-collapse: collapse;
+	border-spacing: 10px;
+	width:1000px;
+	color: #3498db;
+	background-color: #e6e6e6;
+	
+}
+
+td{
+	padding: 10px;
+}
+
+#tb {
+	
+}
+
+#btns {
+	text-align: right;
+}
+.box{
+	border: 1px solid #3498db;
+	height: 200px;
+	vertical-align: top;
+}
+
+.photo{
+	margin:auto;
+	float:left;
+	text-align:center;
+	width : 500px;
+}
+#l_body{
+	margin:auto;
+}

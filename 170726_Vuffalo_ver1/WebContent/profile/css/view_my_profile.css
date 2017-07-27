@@ -1,0 +1,27 @@
+h2,h5{
+	color : #3498DB;
+}
+table{
+	margin:auto;
+}
+.outerBound{
+	width : 1000px;
+	height : 700px;
+	margin : 0 auto;
+}
+.photo{
+	float:left;
+	width : 500px;
+	height : 300px;
+}
+.profileLabel{
+	width : 140px;
+	text-align : right;
+}
+.profileData{
+	width : 200px;
+}
+.profileDesc{
+	width : 500px;
+	height:200px;
+}

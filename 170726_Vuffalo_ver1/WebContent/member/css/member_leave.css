@@ -1,0 +1,15 @@
+	hr{
+		/* border: solid 1px #e0e0e0; */
+		 border: solid 1px #3498db; 
+	}
+	#div_body{
+		height : 600px;
+		width: 500px;
+	}
+	.info{font-size : 11pt;}
+	#div_footer{
+		text-align: center;
+	}
+	#pwd{
+		width : 250px;
+	}

@@ -1,0 +1,46 @@
+body{
+	margin : 0; padding : 0;
+}
+h2{
+	color:#3498db;
+}
+hr{
+	border: solid 1px #e0e0e0;
+}
+table{
+}
+.view_post{
+	width : 100%;
+	position : relative
+}
+.board_title{
+	width : 1000px;
+	margin : 0 auto;
+}
+.board_section{
+	margin:0 auto;
+}
+.td_size{
+	padding-right:20px;
+	width:100px;
+	height : 30px;
+	text-align:right;
+}
+.title{
+	width:865px;
+	height : 25px;
+}
+.attachment{
+	width:865px;
+}
+.content{
+	width:865px;
+	height : 400px;
+}
+.btnBox_view{
+	float:right;
+}
+.board_section{
+	border: solid 1px #e0e0e0;
+	width:1000px;
+}

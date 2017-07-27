@@ -1,0 +1,43 @@
+hr{
+	border : 1px solid #3498DB;
+}
+
+#join{
+	margin :0px; padding : 0px 0px;;
+	width : 500px;
+	height : 600px;
+}
+#main-header{
+	margin : 0px; padding:0px;
+	text-align : center;
+}
+#main-title{
+	margin : 0px; padding:0px;
+}
+#main-subtitle{
+	margin : 0px; padding:0px;
+}
+#main-section{
+	padding : 20px;
+}
+table{
+	padding : 20px 0px;
+}
+.field{
+	width:150px;
+	height:25px;
+	text-align : right;
+	padding-right : 10px;
+}
+.inputSize{
+	width:250px;
+	height:25px;
+	float : left;
+}
+input#joinBtn{
+	margin : 0 auto;
+	text-align:center;
+	width : 150px;
+	height : 50px;
+	background-color : #F1C40F;
+}

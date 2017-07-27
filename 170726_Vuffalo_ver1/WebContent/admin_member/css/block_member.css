@@ -1,0 +1,37 @@
+h2,h5{
+	color : #3498DB;
+}
+table{
+	margin:auto;
+}
+.popupBound{
+	width:500px;
+	height:600px;
+}
+.backgroundBlue{
+	width : 500px;
+	height : 45px;
+	background-color: #3498DB;
+	color : white;
+	text-align:center;
+	vertical-align : middle;
+	font-size:30px;
+}
+.textCenter{
+	text-align : center;
+}
+.inputShortLine{
+	width : 450px;
+}
+.bigConfirmButton{
+	color : white;
+	background-color : #3498DB;
+	width : 100px;
+	height : 40px;
+}
+.bigCancelButton{
+	color : white;
+	background-color : #E0E0E0;
+	width : 100px;
+	height : 40px;
+}

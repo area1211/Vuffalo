@@ -1,0 +1,31 @@
+h2,h5{
+	color : #3498DB;
+}
+table{
+	margin:auto;
+}
+.popupBound{
+	width:500px;
+	height:600px;
+}
+.backgroundBlue{
+	width : 500px;
+	height : 45px;
+	background-color: #3498DB;
+	color : white;
+	text-align:center;
+	vertical-align : middle;
+	font-size:30px;
+}
+.photo{
+	float:left;
+	width : 500px;
+	height : 300px;
+}
+.popupLabelHeight{
+	background-color : #E0E0E0;
+	height : 44px;
+}
+.textCenter{
+	text-align : center;
+}

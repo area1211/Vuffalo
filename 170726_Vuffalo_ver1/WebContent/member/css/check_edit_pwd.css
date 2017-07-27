@@ -1,0 +1,23 @@
+hr {
+	border : 1px solid #3498DB;
+}
+#editMemberInfo{
+	margin : 0 auto;
+	width : 1000px;
+	height:700px;
+}
+#main-header{
+	padding-top : 25px;
+	font-style : bold;
+}
+#main-title{
+	color : #3498DB;
+}
+#main-section{
+	padding: 30px;
+	font-size : 1.5em;
+}
+#pwdCheck{
+	width : 270px;
+	height : 25px;
+}

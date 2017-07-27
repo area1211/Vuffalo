@@ -1,0 +1,28 @@
+h2,h5{
+	color : #3498DB;
+}
+table{
+	margin:auto;
+}
+.outerBound{
+	width : 1000px;
+	height : 700px;
+	margin : 0 auto;
+}
+.inputLine{
+	width : 500px;
+}
+.inputLines{
+	width : 500px;
+	height : 200px;
+}
+.confirmButton{
+	color : white;
+	background-color : #3498DB;
+	width : 60px;
+}
+.cancelButton{
+	color : white;
+	background-color : #E0E0E0;
+	width : 60px;
+}

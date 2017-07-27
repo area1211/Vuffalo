@@ -1,0 +1,67 @@
+.div_body{
+		height : 700px;
+		width: 1000px;
+		margin : 0 auto;
+}
+.textTd{
+	border:1px solid black;
+	width:300px;
+}
+
+.title{
+	border:1px solid black;
+	width:150px;
+	height:30px;
+	color:white;
+	background-color:#3498DB;
+	text-align: center;
+}
+
+.table_css{
+	border-spacing:0px;
+}
+
+td{
+	border:1px solid black;
+	padding: 0px;
+}
+
+.imageVideo{
+	border : 1px solid black;
+	width:150px;
+	height:100px;	
+}
+
+h2{
+   color : #3498DB;
+}
+table{
+   margin:auto;
+   width : 700px;
+}
+.photo{
+   width : 400px;
+   height : 300px;
+}
+.outerBound{
+   width : 1000px;
+   height : 700px;
+}
+.inputLine{
+   width : 150px;
+}
+.inputLines{
+   width : 500px;
+   height : 200px;
+}
+.inputShortLine{
+   width : 450px;
+}
+.confirmButton{
+   color : white;
+   background-color : #3498DB;
+}
+.cancelButton{
+   color : white;
+   background-color : #E0E0E0;
+}
